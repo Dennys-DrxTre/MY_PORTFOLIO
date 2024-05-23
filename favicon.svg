@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M128 0L128 0L128 128L0 128L0 0L128 0Z" id="path_1" />
+    <path d="M97 10C110.809 10 122 21.191 122 35L122 98C122 111.809 110.809 123 97 123L32 123C18.191 123 7 111.809 7 98L7 35C7 21.191 18.191 10 32 10L97 10Z" id="path_2" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Icon 128">
+    <path d="M128 0L128 0L128 128L0 128L0 0L128 0Z" id="Icon-128" fill="#FFFFFF" fill-opacity="0" stroke="none" />
+    <g id="Rectángulo" clip-path="url(#clip_1)">
+      <use xlink:href="#path_2" fill="none" stroke="#FFFFFF" stroke-width="4" />
+      <use stroke="none" fill="#161616" xlink:href="#path_2" />
+    </g>
+    <path d="M53.4802 24.1534L53 104" id="Sendero" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" clip-path="url(#clip_1)" />
+    <path d="M34.5381 29.8077L107.437 67.8251" id="Sendero" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" clip-path="url(#clip_1)" />
+    <path d="M107 68L24.3082 103.616" id="Sendero" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" clip-path="url(#clip_1)" />
+  </g>
+</svg>
