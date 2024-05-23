@@ -46,4 +46,4 @@ $tabBtn.forEach(item =>{
 
 const /* {NodeElement} */ $my_web = document.getElementById('content_my_web');
 
-$my_web.innerHTML = window.location.pathname
+$my_web.innerHTML = window.location
