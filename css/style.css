@@ -641,7 +641,14 @@ body {
 .resume-tab .list{
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-	gap: 24px;
+	gap: 15px;
+	margin-block-end: 28px;
+}
+
+.resume-tab .list-soft-skills{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	gap: 1rem;
 	margin-block-end: 28px;
 }
 
@@ -658,6 +665,7 @@ body {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 	gap: 12px;
+	margin-bottom: 3rem;
 }
 
 .resume-bottom-item{
